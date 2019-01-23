@@ -1,0 +1,62 @@
+header {
+	background: url(../img/footer_lodyas.png);
+	font-family: sans-serif;
+}
+
+body{
+	background: url(../img/country-quilt-dark.png);
+}
+
+p{
+	color: white;
+}
+
+#titulo{
+	text-align: center;
+	font-size: 30px;
+	font-family: sans-serif;
+	color: white;
+}
+
+
+#menu {
+	font-family: sans-serif;
+	font-size: 23px;
+	text-align: right;
+	margin-bottom: 20px;
+}
+#menu ul{
+	line-height: 46px;
+	list-style: none;
+	margin-top: 5px;
+}
+
+#menu ul li{
+	height: 46px;
+	display: inline-block;
+	transition: all 300ms;
+	
+}
+
+#menu ul li:hover{
+	background: #1a8cff;
+}
+
+#menu a{
+	color: white;
+	text-decoration: none;
+	display: block;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+
+footer{
+	color: white;
+	text-align: center;
+	margin: 0px auto;
+	margin-top: 20px;
+	padding: 30px;
+	background: url(../img/footer_lodyas.png);
+}
+
+
